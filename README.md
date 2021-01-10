@@ -1,6 +1,6 @@
 # Project: Landmark Detection & Robot Tracking (SLAM)
 
-This repository contains a project solution for the third project of [**Computer Vision Nanodegree program**](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
+This repository contains a solution for the third project of [**Computer Vision Nanodegree program**](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
 
 ### Introduction
 

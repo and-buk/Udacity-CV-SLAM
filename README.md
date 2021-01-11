@@ -20,6 +20,6 @@ The repository contains five files:
 
 - `1. Robot Moving and Sensing.ipynb`: Robot Moving and Sensing
 - `2. Omega and Xi, Constraints.ipynb`: Omega and Xi, Constraints
-- `3. Landmark Detection and Trackingg.ipynb`: Landmark Detection and Tracking
+- `3. Landmark Detection and Tracking.ipynb`: Landmark Detection and Tracking
 - `robot_class.py`: Implementation of Robot class
 - `helpers.py`: Helper functions 
